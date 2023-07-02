@@ -25,6 +25,7 @@
 
 <script lang="ts">
 import Versus from "../components/Versus.vue";
+//@ts-ignore
 import { mapGetters } from "vuex";
 export default {
   computed: {

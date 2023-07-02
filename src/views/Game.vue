@@ -10,6 +10,7 @@
 <script lang="ts">
 import ChoiseVue from "../components/Choise.vue";
 import CouldownAnimation from "../components/CouldownAnimation.vue";
+//@ts-ignore
 import { mapMutations } from "vuex";
 
 export default {
